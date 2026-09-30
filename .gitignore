@@ -1,0 +1,10 @@
+# C++ compiled files — any directory
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# Executables with no extension
+main
+a.out
